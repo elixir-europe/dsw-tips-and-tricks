@@ -5,7 +5,7 @@ For step-by-step instructions please consult the [wiki](https://github.com/elixi
 
 
 # Introduction
-This repository is designed for data stewards working with DSW, providing practical guidance for various operational tasks. It complements the official DSW documentation and addresses specific questions, such as:
+This repository is designed for data stewards working with DSW, providing practical guidance for various operational tasks. It complements the official [DSW documentation](https://guide.ds-wizard.org/en/latest/about/introduction/index.html) and addresses specific questions, such as:
 * Creating and customizing the MS Word output format of a Document Template.
 * Viewing differences between two versions of a Knowledge Model.
 * Extracting a detailed list of UUIDs from a Knowledge Model (useful for Document Templates).
