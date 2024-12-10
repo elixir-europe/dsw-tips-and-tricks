@@ -15,3 +15,11 @@ This repository is designed for data stewards working with DSW, providing practi
   * how to link these questions to custom json formatted data.
 
 **Important:** some of the described tasks need to be performed outside the DSW environement.
+
+# How to work in this repo
+
+Write tips/tricks in the [wiki](https://github.com/elixir-europe/dsw-tips-and-tricks/wiki). Use one page per a tip/trick.
+
+If code or other resourses are needed, create a tip folder in Code section and refer to files/resources from corresponding Wiki page.
+
+*Folder name convention:* ommit "How to", use dashes to separate words.
